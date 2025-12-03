@@ -2,9 +2,9 @@
 
 * Simple STM32 based board with full CANBUS communication board
 
-![](Docs\Poster.png)
+![](Docs/Poster.png)
 
 
 ## Schematic
-![](Docs\Schematic.png)
+![](Docs/Schematic.png)
 
