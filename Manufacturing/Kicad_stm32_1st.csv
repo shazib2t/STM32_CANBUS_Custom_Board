@@ -1,0 +1,25 @@
+Comment,Designator,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,LCSC Part Number
+10u,C5,,,,Capacitor_SMD:C_0603_1608Metric,~,C15525
+10n,C6,,,,Capacitor_SMD:C_0402_1005Metric,~,C1524
+RED,D1,,,,LED_SMD:LED_0603_1608Metric,~,C2286
+Green,D2,,,,LED_SMD:LED_0603_1608Metric,~,C2289
+FerriteBead,FB1,,,,Inductor_SMD:L_0603_1608Metric,~,C1026
+USB_C_Receptacle_USB2.0_14P,J1,,,,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,C3025063
+Conn_01x13_Pin,J5,,,,Connector_PinHeader_2.54mm:PinHeader_1x13_P2.54mm_Vertical,~,C2932703
+Jumper_2_Open,JP1,,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~,
+120R,R8,,,,Resistor_SMD:R_0402_1005Metric,~,C25079
+SW_Push,SW1,,,,Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2,~,C221676
+SW_Push_SPDT,SW2,,,,Button_Switch_SMD:SW_SPST_B3U-1100P,~,C4364316
+USBLC6-2SC6,U1,,,,Package_TO_SOT_SMD:SOT-23-6,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,C7519
+STM32F103C8Tx,U2,,,,Package_QFP:LQFP-48_7x7mm_P0.5mm,https://www.st.com/resource/en/datasheet/stm32f103c8.pdf,C8734
+MIC5365-3.3YD5,U3,,,,Package_TO_SOT_SMD:TSOT-23-5,https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MIC5365-6-High-Performance-Single-150mA-LDO-DS20006605A.pdf,C626098
+MCP2562-H-SN,U4,,,,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf,C635955
+16MHz,Y1,,,,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,~,C112972
+10p,"C10,C11",,,,Capacitor_SMD:C_0402_1005Metric,~,C1545
+10k,"R1,R2",,,,Resistor_SMD:R_0402_1005Metric,~,C174175
+5k1,"R3,R4",,,,Resistor_SMD:R_0402_1005Metric,~,C22356228
+Conn_01x04_Pin,"J2,J4,J6",,,,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~,C2905435
+1u,"C7,C8,C12,C13",,,,Capacitor_SMD:C_0402_1005Metric,~,C14445
+MountingHole,"H1,H2,H3,H4",,Excluded from BOM,,MountingHole:MountingHole_2.2mm_M2,~,
+1k5,"R5,R6,R7,R9",,,,Resistor_SMD:R_0402_1005Metric,~,C22369162
+100n,"C1,C2,C3,C4,C9,C14,C15",,,,Capacitor_SMD:C_0402_1005Metric,~,C1581
